@@ -1,0 +1,29 @@
+# Vivado
+*.log
+*.jou
+*.dcp
+*.cprd
+*.runs/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.sim/
+*.gen/
+*.stub.dcp
+
+# Bitstreams
+*.bit
+*.rbd
+*.bin
+
+# Reports
+utilization_*.rpt
+timing_summary_*.rpt
+drc_*.rpt
+
+# Backup
+*~
+
+# OS
+.DS_Store
+Thumbs.db
